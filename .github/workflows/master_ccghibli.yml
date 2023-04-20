@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'CCGhibli'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDCB4C87B1CB461C96C372C6895A820E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_875F93E3AEE8492BBC832FE817B36E2E }}
           package: .
